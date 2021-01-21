@@ -7,4 +7,4 @@ Quebec (contemporaneous)
 ![Quebec](QC_1.png?view=raw)
 Ontario (contemporaneous)
 ![Ontario](ON_1.png?view=raw)
-__ Notes: "daily cases per million" is based on the weekly average for dates t-6 to t __
+* *Notes: "daily cases per million" is based on the weekly average for dates t-6 to t.
