@@ -1,5 +1,5 @@
 # COVID-19-Canada-alert-levels
-Quebec (two weeks lag)
+Quebec (two weeks lag from policy level enactment)
 ![Quebec](QC_1b.png?view=raw)
 Quebec (contemporaneous)
 ![Quebec](QC_1.png?view=raw)
