@@ -1,4 +1,4 @@
-# COVID-19 Canada containment levels
+# COVID-19 Canada containment policy levels and cases
 Quebec (two weeks lag from policy level enactment)
 ![Quebec](QC_1b.png?view=raw)
 Ontario (two weeks lag from policy level enactment)
