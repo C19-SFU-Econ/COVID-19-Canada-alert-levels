@@ -11,4 +11,5 @@ Quebec (contemporaneous)
 Ontario (contemporaneous)
 ![Ontario](ON_1.png?view=raw)
 -->
-*Notes: "daily cases per million" is computed as the weekly average daily cases per million for dates t-6 to t.*
+*Notes: "daily cases per million" is computed as the weekly average daily cases per million for dates t-6 to t. The percentage number reported in each sub-panel's
+title is the share of provincial population of the respective region.*
