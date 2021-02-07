@@ -1,5 +1,5 @@
 # COVID-19 Canada containment policy levels and cases
-*These graphs are provided to the public for educational and academic research purposes. If you would like to use them, please cite as: Karaivanov, Lu and Shigeoka (2021), SFU Economics COVID-19 Research Team, github.com/C19-SFU-Econ.*
+<sub>*These graphs are provided to the public for educational and academic research purposes. If you would like to use them, please cite as: Karaivanov, Lu and Shigeoka (2021), SFU Economics COVID-19 Research Team, github.com/C19-SFU-Econ.*</sub>
 
 ## Quebec
 ![Quebec](QC_1b.png?view=raw)
