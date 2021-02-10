@@ -4,7 +4,7 @@
 ## Quebec
 ![Quebec](QC_1b.png?view=raw)
 ## Ontario
-![Ontario](ON_1b.png?view=raw)
+![Ontario](ON1b.png?view=raw)
 <!--
 Quebec (contemporaneous)
 ![Quebec](QC_1.png?view=raw)
