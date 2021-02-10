@@ -11,5 +11,4 @@ Quebec (contemporaneous)
 Ontario (contemporaneous)
 ![Ontario](ON_1.png?view=raw)
 -->
-<sub>*Notes: "daily cases per mln" is computed as the weekly average of daily cases per million people for dates t-6 to t. The percentage number reported in each sub-panel's
-title is the respective region's share of provincial population. The colours indicate the policy (alert) level in force 14 days before the reported daily cases, to allow for lag in the effect of the policy measures.*</sub>
+<sub>*Notes: "weekly cases per 100,000" is the weekly count of new cases per 100,000 people for the week ending at the reported date (dates t-6 to t). The percentage number reported in each sub-panel's title is the respective region's share of the provincial population. The colours indicate the policy (alert) level in force 14 days before the reported daily cases, to allow for lag in the effect of the policy measures.*</sub>
