@@ -4,7 +4,7 @@
 ## Quebec
 ![Quebec](QC1b.png?view=raw)
 
-<img src="https://github.com/C19-SFU-Econ/COVID-19-Canada-restriction-levels/blob/main/ON1b.png" width="100" height="100">
+<img src="https://github.com/C19-SFU-Econ/COVID-19-Canada-restriction-levels/blob/main/QC1b.png" width="1400" height="800">
 
 ## Ontario
 ![Ontario](ON1b.png?view=raw)
