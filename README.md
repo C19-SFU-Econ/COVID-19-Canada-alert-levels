@@ -3,6 +3,7 @@
 
 ## Quebec
 ![Quebec](QC1b.png?view=raw)
+![Quebec](QC1b.png | width=100)
 ## Ontario
 ![Ontario](ON1b.png?view=raw)
 <!--
